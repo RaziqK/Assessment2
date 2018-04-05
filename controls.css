@@ -1,0 +1,26 @@
+.rangeinp {
+    width:6%;
+}
+#butrange {
+    color: aqua;
+    background-color: #ffd3ff;
+}
+#butnumber {
+    color: white;
+    background-color:blue;
+}
+#butrandom {
+    color:yellow;
+    background-color:green;
+}
+#butplus {
+    color:gray;
+    background-color:rebeccapurple;
+}
+.createbut {
+    color:white;
+    background-color: fuchsia;
+}
+#display{
+    display:inline;
+}
